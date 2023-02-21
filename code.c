@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
+#include "code.h"
 
 void program1() {
   int table[3][5];

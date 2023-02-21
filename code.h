@@ -2,10 +2,9 @@
 #include <string.h>
 #include <stdio.h>
 
-void program1();
-
 struct Node;
 
 void printList(struct Node *);
 
+void program1();
 struct Node * program2(int argc, char * argv[]);
