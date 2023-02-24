@@ -14,12 +14,6 @@ void program1() {
   }
 }
 
-
-struct Node {
-  int value;
-  struct Node * next;
-};
-
 struct Node * program2(int argc, char * argv[]) {
   struct Node * list;
   list = NULL;
